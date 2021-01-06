@@ -16,6 +16,24 @@
       "message": "Do we still need binder32?",
       "revId": "d5a7958aeb883afbe156b1aedb58cbbb827f4af4",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5da25b51_2116cfcd",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1146974
+      },
+      "writtenOn": "2021-01-06T08:33:55Z",
+      "side": 1,
+      "message": "They are included because they are captured in Q.\nIt is removed in v30 but not in v29.",
+      "parentUuid": "65950e5f_b313dc62",
+      "revId": "d5a7958aeb883afbe156b1aedb58cbbb827f4af4",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
