@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "700c4374_7280efab",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1359095
+      },
+      "writtenOn": "2021-02-08T20:10:38Z",
+      "side": 1,
+      "message": "Hi Justin,\n\nPTAL\n\nThank you for pointing out the typo.\n\nThe METADATA needs to reflect the most restrictive license in the project per http://go/thirdpartylicenses\n\nMore important than the METADATA will be the build files (makefiles, Soong blueprints, eventually Bazel BUILD files). I am in the middle of an effort to add license{} and license_kind{} modules to Soong mirroring the license() and license_kind() rules in Bazel.\n\nI think the correct solution for large prebuilts will be to capture a snapshot of the licenses and license texts per the dependencies at the time of build and to include those under the prebuilt directory.\n\nI suspect that the license information the large-scale-change will generate for prebuilts may be incomplete, but after the license information appears in the build system, the prebuild scripts will be able to deduce them from the build.\n\nThanks,\nBob\n",
+      "revId": "884bc47e2114ad4dbe228fad01a50142d32ef18b",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    }
+  ]
+}
