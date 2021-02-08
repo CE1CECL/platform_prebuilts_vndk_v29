@@ -16,6 +16,29 @@
       "message": "Dash blanket approved all GPL -\u003e RESTRICTED and all LGPL -\u003e RESTRICTED",
       "revId": "413c9e308090e7f08755e33967d7371f51ab8643",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3c3913a4_91844cb4",
+        "filename": "METADATA",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1146974
+      },
+      "writtenOn": "2021-02-08T12:57:40Z",
+      "side": 1,
+      "message": "Typo?",
+      "range": {
+        "startLine": 6,
+        "startChar": 16,
+        "endLine": 6,
+        "endChar": 25
+      },
+      "revId": "413c9e308090e7f08755e33967d7371f51ab8643",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
