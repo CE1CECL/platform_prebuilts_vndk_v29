@@ -121,6 +121,24 @@
       "parentUuid": "bb7c999c_8ec25271",
       "revId": "26d52d47ee8f4b6e3238e0f048bf6ac3913a5e98",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "eb2426a8_cfee10de",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1052399
+      },
+      "writtenOn": "2021-10-12T00:03:37Z",
+      "side": 1,
+      "message": "I don\u0027t see platform build error, just trying to be consistent over all vndk versions.  Should we then keep v29 and v30 as is, and remove such scudo libraries only in v31?",
+      "parentUuid": "fa27c831_30f7e85f",
+      "revId": "26d52d47ee8f4b6e3238e0f048bf6ac3913a5e98",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
