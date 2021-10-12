@@ -139,6 +139,24 @@
       "parentUuid": "fa27c831_30f7e85f",
       "revId": "26d52d47ee8f4b6e3238e0f048bf6ac3913a5e98",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2fa1c2c8_3457ff4d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1132673
+      },
+      "writtenOn": "2021-10-12T00:07:04Z",
+      "side": 1,
+      "message": "Ok, then let\u0027s not make changes the old VNDK releases.\n\nAnd why V31, and not V32? V31 is already frozen as well for SC.",
+      "parentUuid": "eb2426a8_cfee10de",
+      "revId": "26d52d47ee8f4b6e3238e0f048bf6ac3913a5e98",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
