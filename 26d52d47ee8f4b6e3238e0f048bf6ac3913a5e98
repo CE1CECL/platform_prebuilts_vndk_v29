@@ -157,6 +157,24 @@
       "parentUuid": "eb2426a8_cfee10de",
       "revId": "26d52d47ee8f4b6e3238e0f048bf6ac3913a5e98",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7b769630_8ee7d730",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1052399
+      },
+      "writtenOn": "2021-10-12T05:44:58Z",
+      "side": 1,
+      "message": "I was not aware of V32.\nI\u0027m going to abandon these vndk CLs for now.",
+      "parentUuid": "2fa1c2c8_3457ff4d",
+      "revId": "26d52d47ee8f4b6e3238e0f048bf6ac3913a5e98",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
